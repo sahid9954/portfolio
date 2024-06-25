@@ -183,25 +183,25 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Myntra Clone",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based platform that allows users to do online shopping for clothes, shoes, home & living items etc. It provides quality products to customers.",
     tags: [
       {
-        name: "react",
+        name: "html",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "css",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "tailwind, aws",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/sahid9954/myntra-clone",
   },
   {
     name: "WSN",
